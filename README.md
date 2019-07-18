@@ -1,12 +1,12 @@
 ---
 topic: sample
 products:
-- Skype
-- Skype for Business
-- Office 365
+- skype
+- office-skype-business
+- office-365
 languages:
-- JavaScript
-- HTML
+- javascript
+- html
 extensions:
   contentType: sdks
   createdDate: 3/18/2016 2:38:41 PM
